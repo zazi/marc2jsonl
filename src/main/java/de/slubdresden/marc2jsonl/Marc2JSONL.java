@@ -197,6 +197,7 @@ public class Marc2JSONL {
 				builder = tempBuilder
 						.setFormat(MarcXchangeConstants.MARCXCHANGE_FORMAT)
 						.setType(MarcXchangeConstants.BIBLIOGRAPHIC_TYPE)
+						.setSchema(MarcXchangeConstants.MARC21_FORMAT)
 						.setMarcListener(writer);
 			}
 
