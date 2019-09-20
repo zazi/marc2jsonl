@@ -1,0 +1,97 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00937ndm a2200253 u 4500</leader>
+  <controlfield tag="001">190101037</controlfield>
+  <controlfield tag="003">DE-633</controlfield>
+  <controlfield tag="005">20170526171907.0</controlfield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">1</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Largo</subfield>
+    <subfield code="g">G-2</subfield>
+    <subfield code="m">vl</subfield>
+    <subfield code="o">3/2</subfield>
+    <subfield code="p">2-4.8&apos;&apos;E&apos;EA&apos;&apos;C/2&apos;B4.8&apos;&apos;E&apos;EB&apos;&apos;D/2C</subfield>
+    <subfield code="r">a</subfield>
+    <subfield code="u">30226769</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">2</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Vivace</subfield>
+    <subfield code="o">3/4</subfield>
+    <subfield code="u">30226770</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">3</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Adagio</subfield>
+    <subfield code="o">3/2</subfield>
+    <subfield code="u">30226771</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="031" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="b">4</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">Non presto</subfield>
+    <subfield code="o">c/</subfield>
+    <subfield code="u">30226772</subfield>
+    <subfield code="2">pe</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-633</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roman, Johan Helmich</subfield>
+    <subfield code="d">1694-1758</subfield>
+    <subfield code="j">e</subfield>
+    <subfield code="0">30002729</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0">
+    <subfield code="a">Sonatas</subfield>
+    <subfield code="m">vl (2), bc</subfield>
+    <subfield code="n">BenR T11.107</subfield>
+    <subfield code="r">a</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">[without title]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">score: 4f.</subfield>
+    <subfield code="8">1\c</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Thumb Ro 51 (32): http://muscat.rism.info/system/digital_objects/attachments/000/000/044/original/308.jpg</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">BenR</subfield>
+    <subfield code="b">T11.107</subfield>
+    <subfield code="0">265</subfield>
+  </datafield>
+  <datafield tag="593" ind1=" " ind2=" ">
+    <subfield code="a">autograph</subfield>
+    <subfield code="8">1\c</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" ">
+    <subfield code="a">vl (2), bc</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="0">
+    <subfield code="a">Trio sonatas</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">S-Skma</subfield>
+    <subfield code="c">Ro 51</subfield>
+    <subfield code="x">30002153</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.muslib.se/ebibliotek/roman/browsevol.php?lang=en&amp;by=volymid&amp;volymid=Ro+51</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+</record>
+</collection>
