@@ -1,0 +1,357 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04427cam a2201081  c4500</leader>
+  <controlfield tag="001">0-730849546</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20190704100209.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">121203s2019    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">12,N48</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1028162669</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3579026895</subfield>
+    <subfield code="c">Gb.ca. EUR 168.00 (DE)</subfield>
+    <subfield code="9">3-579-02689-5</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783579026893</subfield>
+    <subfield code="c">Gb.ca. EUR 168.00 (DE)</subfield>
+    <subfield code="9">978-3-579-02689-3</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783579026893</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)730849546</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)9730849544</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1028162669</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-101)1028162669</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-NW</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">290</subfield>
+    <subfield code="q">DNB</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+    <subfield code="2">ssgn</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Buber, Martin</subfield>
+    <subfield code="d">1878-1965</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)118516477</subfield>
+    <subfield code="0">(DE-627)133399109</subfield>
+    <subfield code="0">(DE-576)208877088</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Werkausgabe</subfield>
+    <subfield code="n">13</subfield>
+    <subfield code="p">Schriften zur biblischen Religion / herausgegeben von Christian Wiese unter Mitarbeit von Heike Breitenbach ; eingeleitet von Michael Fishbane ; kommentiert von Christian Wiese und Heike Breitenbach unter Mitarbeit von Andreas Losch</subfield>
+    <subfield code="n">1</subfield>
+    <subfield code="p">Text</subfield>
+    <subfield code="c">Martin Buber ; im Auftrag der Philosophischen Fakultät der Heinrich Heine Universität Düsseldorf und der Israel Acadademy of Sciences and Humanities herausgegeben von Paul Mendes-Flohr und Bernd Witte</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Gütersloh</subfield>
+    <subfield code="b">Gütersloher Verlagshaus</subfield>
+    <subfield code="c">[2019]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="4">
+    <subfield code="c">© 2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">726 Seiten</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Quelle</subfield>
+    <subfield code="0">(DE-588)4135952-5</subfield>
+    <subfield code="0">(DE-627)105661236</subfield>
+    <subfield code="0">(DE-576)209665084</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">u</subfield>
+    <subfield code="0">(DE-588)4001515-4</subfield>
+    <subfield code="0">(DE-627)104603666</subfield>
+    <subfield code="0">(DE-576)208843116</subfield>
+    <subfield code="a">Bibel</subfield>
+    <subfield code="p">Altes Testament</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4015950-4</subfield>
+    <subfield code="0">(DE-627)104675314</subfield>
+    <subfield code="0">(DE-576)20891434X</subfield>
+    <subfield code="a">Exegese</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4136677-3</subfield>
+    <subfield code="0">(DE-627)105655740</subfield>
+    <subfield code="0">(DE-576)209671181</subfield>
+    <subfield code="a">Jüdische Philosophie</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">u</subfield>
+    <subfield code="0">(DE-588)4001515-4</subfield>
+    <subfield code="0">(DE-627)104603666</subfield>
+    <subfield code="0">(DE-576)208843116</subfield>
+    <subfield code="a">Bibel</subfield>
+    <subfield code="p">Altes Testament</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4059758-1</subfield>
+    <subfield code="0">(DE-627)104131446</subfield>
+    <subfield code="0">(DE-576)209132159</subfield>
+    <subfield code="a">Theologie</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Wiese, Christian</subfield>
+    <subfield code="d">1961-</subfield>
+    <subfield code="e">HerausgeberIn</subfield>
+    <subfield code="0">(DE-588)121451917</subfield>
+    <subfield code="0">(DE-627)081317069</subfield>
+    <subfield code="0">(DE-576)181294958</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fishbane, Michael A.</subfield>
+    <subfield code="d">1943-</subfield>
+    <subfield code="e">VerfasserIn einer Einleitung</subfield>
+    <subfield code="0">(DE-588)131399837</subfield>
+    <subfield code="0">(DE-627)50877294X</subfield>
+    <subfield code="0">(DE-576)178775916</subfield>
+    <subfield code="4">win</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Buber, Martin</subfield>
+    <subfield code="d">1878-1965</subfield>
+    <subfield code="t">Schriften zur biblischen Religion</subfield>
+  </datafield>
+  <datafield tag="773" ind1="1" ind2="8">
+    <subfield code="w">(DE-627)1165587912</subfield>
+    <subfield code="w">(DE-576)095587918</subfield>
+    <subfield code="g">13,1</subfield>
+    <subfield code="q">13,1</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=4186947&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+    <subfield code="n">Verlag: MVB</subfield>
+    <subfield code="q">text/html</subfield>
+    <subfield code="v">2013-05-01</subfield>
+    <subfield code="3">Inhaltstext</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://swbplus.bsz-bw.de/bsz730849546inh.htm</subfield>
+    <subfield code="m">V:DE-576;B:DE-21</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="v">20190605155100</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+  </datafield>
+  <datafield tag="982" ind1=" " ind2=" ">
+    <subfield code="a">(DE-15)0025681716</subfield>
+    <subfield code="x">1</subfield>
+  </datafield>
+  <datafield tag="969" ind1=" " ind2=" ">
+    <subfield code="b">FHTheol</subfield>
+    <subfield code="x">1</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">(DE-15)3717597</subfield>
+  </datafield>
+  <datafield tag="969" ind1=" " ind2=" ">
+    <subfield code="c">B</subfield>
+  </datafield>
+  <datafield tag="982" ind1=" " ind2=" ">
+    <subfield code="a">(DE-14)34144552</subfield>
+    <subfield code="x">1</subfield>
+  </datafield>
+  <datafield tag="984" ind1=" " ind2=" ">
+    <subfield code="b">FH1</subfield>
+    <subfield code="x">1</subfield>
+  </datafield>
+  <datafield tag="983" ind1=" " ind2=" ">
+    <subfield code="a">(DE-14)16659087</subfield>
+  </datafield>
+  <datafield tag="984" ind1=" " ind2=" ">
+    <subfield code="c">B</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">PYŠBYYN, Mîkāʿēl</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Fishbane, Michael</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Fišbeyn, Mîḵāʾēl</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Būber, Mordekaj Marṭin</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Buber, Martin Mordehai</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Buber, Marṭin</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Mpumper, Martin</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Bûber, Mordekay Martîn</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Būbā, Marutin</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Buber, Mordehai Martin</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">Buber, Mordekhai Marṭin</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">בובר, מרטין</subfield>
+  </datafield>
+  <datafield tag="900" ind1=" " ind2=" ">
+    <subfield code="a">בובר, מרדכי מרטין</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Christliche Theologie</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Богословие</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Judentum</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Philosophie</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Östliche Philosophie</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Иудейская философия</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Alter Bund</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Bibelauslegung</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Bibelexegese</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Biblische Auslegung</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Bibelinterpretation</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Biblische Exegese</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Schriftauslegung</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Bibelwissenschaft</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Exeget</subfield>
+  </datafield>
+  <datafield tag="950" ind1=" " ind2=" ">
+    <subfield code="a">Экзегетика</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="b">XA-AT</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="b">XA-DE</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="b">XB-IL</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="b">XY</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">DE-14</subfield>
+    <subfield code="z">2019-05-06T09:35:35Z</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">DE-L325</subfield>
+    <subfield code="z">2019-05-28T10:02:58Z</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">DE-16</subfield>
+    <subfield code="z">2019-05-15T10:23:35Z</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">DE-15</subfield>
+    <subfield code="z">2019-05-09T09:13:04Z</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">730849546</subfield>
+    <subfield code="b">0</subfield>
+    <subfield code="k">730849546</subfield>
+    <subfield code="o">9730849544</subfield>
+  </datafield>
+</record>
+</collection>
